@@ -1,4 +1,4 @@
-# Dioinformatica
+# Bioinformatica
 ##deberes_1
 Se practicó el comando para el conteo de columnas y filas para un archivo 
 ##deber_2 
